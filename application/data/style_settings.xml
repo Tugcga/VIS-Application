@@ -1,0 +1,4 @@
+<parameters_set label_width="92" name="Style Settings">
+    <parameter items="['Windows', 'WindowsXP', 'WindowsVista', 'Motif', 'CDE', 'Plastique', 'Cleanlooks', 'aqua', 'dark_style', 'darkorange', 'QTDark']" label="Style" name="style_names" value="2" />
+    <parameter label="Use Style Colors" name="use_colors" value="True" />
+</parameters_set>

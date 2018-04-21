@@ -1,0 +1,36 @@
+<layout>
+    <scene_properties>
+        <is_visible value="False" />
+        <is_floating value="False" />
+        <area_index value="1" />
+        <width value="306" />
+        <height value="800" />
+        <position_x value="0" />
+        <position_y value="21" />
+    </scene_properties>
+    <render_settings>
+        <is_visible value="False" />
+        <is_floating value="False" />
+        <area_index value="2" />
+        <width value="356" />
+        <height value="661" />
+        <position_x value="1223" />
+        <position_y value="21" />
+    </render_settings>
+    <main_window>
+        <width value="1381" />
+        <height value="863" />
+        <is_maximized value="False" />
+        <position_x value="234" />
+        <position_y value="3" />
+    </main_window>
+    <style_settings>
+        <is_visible value="False" />
+        <is_floating value="False" />
+        <area_index value="2" />
+        <width value="356" />
+        <height value="135" />
+        <position_x value="1223" />
+        <position_y value="21" />
+    </style_settings>
+</layout>

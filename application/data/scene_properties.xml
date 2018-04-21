@@ -1,0 +1,33 @@
+<parameters_set label_width="92" name="Scene Properties">
+    <group name="scene">
+        <parameter items="['X', 'Y', 'Z']" label="Up Axis" name="up_axis" value="1" />
+        <parameter label="Scale" max_value="None" max_visible="7.0" min_value="0.0" min_visible="0.0" name="scale" value="1.0" />
+        <parameter label="Centering" name="center" value="False" />
+        <parameter label="Camera FOV" max_value="179.99" max_visible="75.0" min_value="0.0" min_visible="0.0" name="camera_fov" value="60.0" />
+    </group>
+    <group name="background">
+        <parameter label="Background Color" name="bg_color" value="(127, 127, 127, 255)" />
+    </group>
+    <group name="axis_settings">
+        <parameter label="Show Axis" name="show_axis" value="True" />
+        <parameter items="['Left-Top', 'Left_Bottom', 'Right-Bottom', 'Right-Top']" label="Axis Corner" name="axis_corner" value="1" />
+        <parameter label="Axis Size" max_value="None" max_visible="48.0" min_value="0.1" min_visible="0.1" name="axis_size" value="36.0" />
+        <parameter label="Axis Width" max_value="None" max_visible="4.0" min_value="0.1" min_visible="0.1" name="axis_width" value="2.0" />
+        <parameter label="Axis Arrow Size" max_value="None" max_visible="10.0" min_value="0.1" min_visible="0.1" name="axis_arrow_size" value="5.0" />
+        <parameter label="Axis Shift X" max_value="None" max_visible="128" min_value="0" min_visible="0" name="axis_shift_x" value="50" />
+        <parameter label="Axis Shift Y" max_value="None" max_visible="128" min_value="0" min_visible="0" name="axis_shift_y" value="50" />
+        <parameter label="X Axis Color" name="axis_x_color" value="(214, 0, 0, 255)" />
+        <parameter label="Y Axis Color" name="axis_y_color" value="(0, 214, 0, 255)" />
+        <parameter label="Z Axis Color" name="axis_z_color" value="(0, 0, 214, 255)" />
+    </group>
+    <group name="grid_settings">
+        <parameter label="Show Grid" name="show_grid" value="True" />
+        <parameter label="Grid Step Size" max_value="None" max_visible="5.0" min_value="0.0" min_visible="0.0" name="grid_step_size" value="1.0" />
+        <parameter label="Lines Count" max_value="None" max_visible="24" min_value="2" min_visible="2" name="grid_count" value="10" />
+        <parameter label="Grid Subdivs" max_value="None" max_visible="10" min_value="1" min_visible="1" name="grid_subdivs" value="5" />
+        <parameter label="Draw Center" name="grid_center" value="True" />
+        <parameter label="Grid Color" name="grid_color" value="(25, 25, 25, 128)" />
+        <parameter label="Subgrid Color" name="grid_subgrid_color" value="(64, 64, 64, 128)" />
+        <parameter label="Center Lines Color" name="grid_center_color" value="(25, 25, 25, 255)" />
+    </group>
+</parameters_set>

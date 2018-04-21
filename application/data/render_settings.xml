@@ -1,0 +1,24 @@
+<parameters_set label_width="92" name="Render Settings">
+    <group name="show_items">
+        <parameter label="Show Polygons" name="show_faces" value="True" />
+        <parameter label="Show Edges" name="show_edges" value="True" />
+        <parameter label="Show Points" name="show_points" value="False" />
+    </group>
+    <group name="polygons_settings">
+        <parameter label="Color" name="poly_color" value="(200, 200, 200, 255)" />
+        <parameter label="Shiness" max_value="None" max_visible="0.2" min_value="0.0" min_visible="0.0" name="shiness" value="0.0" />
+    </group>
+    <group name="edges_settings">
+        <parameter label="Color" name="edge_color" value="(76, 76, 76, 255)" />
+        <parameter label="Width" max_value="None" max_visible="4" min_value="1" min_visible="1" name="line_width" value="1" />
+    </group>
+    <group name="points_settings">
+        <parameter label="Color" name="point_color" value="(68, 108, 217, 255)" />
+        <parameter label="Point Size" max_value="None" max_visible="40.0" min_value="0.0" min_visible="0.0" name="point_size" value="5.0" />
+    </group>
+    <group name="light">
+        <parameter label="Ambient Color" name="ambient_color" value="(55, 55, 55, 255)" />
+        <parameter label="Horizontal Shift" max_value="None" max_visible="70.0" min_value="None" min_visible="-90.0" name="light_shift_x" value="0.5" />
+        <parameter label="Vertical Shift" max_value="None" max_visible="10.0" min_value="None" min_visible="-10.0" name="light_shift_y" value="0.5" />
+    </group>
+</parameters_set>

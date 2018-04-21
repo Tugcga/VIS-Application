@@ -1,0 +1,1 @@
+"%~dp0python36\python.exe" "%~dp0application\run.py"

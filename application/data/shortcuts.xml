@@ -1,0 +1,15 @@
+<shortcuts>
+    <command key="A" label="Fit Camera View" name="fit_camera" />
+	<command key="Ctrl+C" label="Clear Scene" name="clear_scene" />
+    <command key="Ctrl+O" label="Open..." name="open" />
+    <command key="Ctrl+Q" label="Quit" name="quit" />
+    <command key="Ctrl+E" label="Enable/Disable Layout Edit" name="edit_layout" />
+    <command key="Ctrl+P" label="Scene Properties..." name="show_poroperties" />
+	<command key="Ctrl+R" label="Render Settings..." name="show_render_settings" />
+	<command key="Ctrl+V" label="Style Settings..." name="show_style_settings" />
+    <camera>
+        <orbit key="S" mouse="Right" />
+        <pan key="S" mouse="Left" />
+        <zoom key="S" mouse="Middle" />
+    </camera>
+</shortcuts>
