@@ -2,7 +2,7 @@
     <group name="show_items">
         <parameter label="Show Polygons" name="show_faces" value="True" />
         <parameter label="Show Edges" name="show_edges" value="True" />
-        <parameter label="Show Points" name="show_points" value="False" />
+        <parameter label="Show Points" name="show_points" value="True" />
     </group>
     <group name="polygons_settings">
         <parameter label="Color" name="poly_color" value="(200, 200, 200, 255)" />

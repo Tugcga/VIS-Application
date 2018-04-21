@@ -1,7 +1,7 @@
 <parameters_set label_width="92" name="Scene Properties">
     <group name="scene">
         <parameter items="['X', 'Y', 'Z']" label="Up Axis" name="up_axis" value="1" />
-        <parameter label="Scale" max_value="None" max_visible="7.0" min_value="0.0" min_visible="0.0" name="scale" value="1.0" />
+        <parameter label="Scale" max_value="None" max_visible="7.0" min_value="0.0" min_visible="0.0" name="scale" value="0.25" />
         <parameter label="Centering" name="center" value="False" />
         <parameter label="Camera FOV" max_value="179.99" max_visible="75.0" min_value="0.0" min_visible="0.0" name="camera_fov" value="60.0" />
     </group>

@@ -14,15 +14,15 @@
         <area_index value="2" />
         <width value="356" />
         <height value="661" />
-        <position_x value="1223" />
+        <position_x value="1319" />
         <position_y value="21" />
     </render_settings>
     <main_window>
-        <width value="1381" />
-        <height value="863" />
+        <width value="1411" />
+        <height value="922" />
         <is_maximized value="False" />
-        <position_x value="234" />
-        <position_y value="3" />
+        <position_x value="113" />
+        <position_y value="43" />
     </main_window>
     <style_settings>
         <is_visible value="False" />
@@ -30,7 +30,7 @@
         <area_index value="2" />
         <width value="356" />
         <height value="135" />
-        <position_x value="1223" />
+        <position_x value="1319" />
         <position_y value="21" />
     </style_settings>
 </layout>
